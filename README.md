@@ -32,6 +32,10 @@ The course I'm following covers the fundamentals of DSA, providing a strong foun
   - **Breadth First Search (BFS)**: A graph traversal algorithm that explores neighbors before going to the next level.
   - **Depth First Search (DFS)**: A graph traversal algorithm that explores as far down a branch as possible before backtracking.
 
+### LeetCode Exercises
+
+After learning each data structure, I will solve relevant LeetCode exercises to further solidify my understanding. These exercises will be pushed to this repository as I complete them, showcasing my progress and ability to apply what I've learned in practical problems.
+
 ## Progress
 
 Each time I complete a new topic or section, I will push the corresponding code and notes to the repository.
